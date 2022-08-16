@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/padma____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padma____" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/padmanabha chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padmanabha chakraborty" height="30" width="40" /></a>
-<a href="https://fb.com/padmanabha chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="padmanabha chakraborty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/padmanabha chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Padmanabha Chakraborty" height="30" width="40" /></a>
+<a href="https://fb.com/padmanabha chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Padmanabha Chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_atelophobiac_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_atelophobiac_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gopu2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopu2000" height="30" width="40" /></a>
 </p>
